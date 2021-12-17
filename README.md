@@ -5,10 +5,10 @@ Projects and assignments done in Data Analyics-I course in 2021 at IIITH
 1) [**Clustering Project**](/Clustering_Project)
 
 > Given Football dataset and expected to do followong tasks:
- * Data Visualisation
- * K-means
- * Hierarchical Clustering
- * DBSCAN
+  * Data Visualisation
+  * K-means
+  * Hierarchical Clustering
+  * DBSCAN
 
 2) [**Classification**](/Assignment-1)
 
