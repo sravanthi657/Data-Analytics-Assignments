@@ -1,6 +1,6 @@
 # Data-Analytics-Assignments
 
-Projects and assignments done in Data Analyics-I course in 2021 at IIITH
+Projects and assignments in Data Analyics-I course 2021 at IIITH
 
 1) [**Clustering Project**](/Clustering_Project)
 
